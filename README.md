@@ -16,3 +16,5 @@ In a recent Project I had the opportunity to work in the migration of a legacy J
 * Postgresql - https://www.postgresql.org/
 * RabbitMQ - https://www.rabbitmq.com/
 * Stripe (Payments processor) - https://stripe.com/
+
+New  Code rr
